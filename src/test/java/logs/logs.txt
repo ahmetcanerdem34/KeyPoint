@@ -1,0 +1,102 @@
+2022-06-20 20:01:19 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:19 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 20:01:19 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:28 - user went to Sauce Demo Log in Page
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:33 - user enters valid userName
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:35 - User entered valid user name
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:40 - user enters valid password and clicks login button
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:42 - User entered valid password
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:44 - User clicked login button
+2022-06-20 20:01:20 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:20 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 20:01:20 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:28 - user went to Sauce Demo Log in Page
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:48 - User entered valid second user name
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:40 - user enters valid password and clicks login button
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:42 - User entered valid password
+2022-06-20 20:01:20 INFO  DemogaHomePageAlerts:44 - User clicked login button
+2022-06-20 20:01:20 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:20 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 20:01:20 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:21 INFO  DemogaHomePageAlerts:28 - user went to Sauce Demo Log in Page
+2022-06-20 20:01:21 INFO  DemogaHomePageAlerts:54 - User entered valid third user name
+2022-06-20 20:01:21 INFO  DemogaHomePageAlerts:40 - user enters valid password and clicks login button
+2022-06-20 20:01:21 INFO  DemogaHomePageAlerts:42 - User entered valid password
+2022-06-20 20:01:26 INFO  DemogaHomePageAlerts:44 - User clicked login button
+2022-06-20 20:01:55 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:55 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 20:01:55 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:55 INFO  DemogaHomePageAlerts:42 - user types valid password and clicks login button
+2022-06-20 20:01:55 INFO  DemogaHomePageAlerts:49 - user checks error message and verifies it
+2022-06-20 20:01:56 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:56 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 20:01:56 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:56 INFO  DemogaHomePageAlerts:59 - user types invalid password and clicks login button
+2022-06-20 20:01:56 INFO  Log:16 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:56 INFO  Log:17 - **************************         Tests END    **************************
+2022-06-20 20:01:56 INFO  Log:18 - ---------------------------------------------------------------------------------------
+2022-06-20 20:01:56 INFO  DemogaHomePageAlerts:49 - user checks error message and verifies it
+2022-06-20 20:03:05 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 20:03:05 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 20:03:05 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 20:03:05 INFO  DemogaHomePageAlerts:42 - user types valid password and clicks login button
+2022-06-20 20:03:05 INFO  DemogaHomePageAlerts:49 - user checks error message and verifies it
+2022-06-20 20:03:06 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 20:03:06 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 20:03:06 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 20:03:06 INFO  DemogaHomePageAlerts:59 - user types invalid password and clicks login button
+2022-06-20 20:03:06 INFO  Log:16 - ---------------------------------------------------------------------------------------
+2022-06-20 20:03:06 INFO  Log:17 - **************************         Tests END    **************************
+2022-06-20 20:03:06 INFO  Log:18 - ---------------------------------------------------------------------------------------
+2022-06-20 20:03:06 INFO  DemogaHomePageAlerts:49 - user checks error message and verifies it
+2022-06-20 23:43:09 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:09 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 23:43:09 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:09 INFO  DemogaHomePageAlerts:42 - user types valid password and clicks login button
+2022-06-20 23:43:09 INFO  DemogaHomePageAlerts:49 - user checks error message and verifies it
+2022-06-20 23:43:10 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:10 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 23:43:10 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:10 INFO  DemogaHomePageAlerts:59 - user types invalid password and clicks login button
+2022-06-20 23:43:10 INFO  Log:16 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:10 INFO  Log:17 - **************************         Tests END    **************************
+2022-06-20 23:43:10 INFO  Log:18 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:10 INFO  DemogaHomePageAlerts:49 - user checks error message and verifies it
+2022-06-20 23:43:30 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:30 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 23:43:30 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:30 INFO  DemogaHomePageAlerts:42 - user types valid password and clicks login button
+2022-06-20 23:43:31 INFO  DemogaHomePageAlerts:49 - user checks error message and verifies it
+2022-06-20 23:43:31 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:31 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 23:43:31 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:31 INFO  DemogaHomePageAlerts:59 - user types invalid password and clicks login button
+2022-06-20 23:43:32 INFO  Log:16 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:32 INFO  Log:17 - **************************         Tests END    **************************
+2022-06-20 23:43:32 INFO  Log:18 - ---------------------------------------------------------------------------------------
+2022-06-20 23:43:32 INFO  DemogaHomePageAlerts:49 - user checks error message and verifies it
+2022-06-20 23:44:34 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 23:44:34 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 23:44:34 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:28 - user went to Sauce Demo Log in Page
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:33 - user enters valid userName
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:35 - User entered valid user name
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:40 - user enters valid password and clicks login button
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:42 - User entered valid password
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:44 - User clicked login button
+2022-06-20 23:44:35 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 23:44:35 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 23:44:35 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:28 - user went to Sauce Demo Log in Page
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:48 - User entered valid second user name
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:40 - user enters valid password and clicks login button
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:42 - User entered valid password
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:44 - User clicked login button
+2022-06-20 23:44:35 INFO  Log:10 - ---------------------------------------------------------------------------------------
+2022-06-20 23:44:35 INFO  Log:11 - ***********************         Test STARTs    **************************
+2022-06-20 23:44:35 INFO  Log:12 - ---------------------------------------------------------------------------------------
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:28 - user went to Sauce Demo Log in Page
+2022-06-20 23:44:35 INFO  DemogaHomePageAlerts:54 - User entered valid third user name
+2022-06-20 23:44:36 INFO  DemogaHomePageAlerts:40 - user enters valid password and clicks login button
+2022-06-20 23:44:36 INFO  DemogaHomePageAlerts:42 - User entered valid password
+2022-06-20 23:44:41 INFO  DemogaHomePageAlerts:44 - User clicked login button
